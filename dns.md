@@ -6,7 +6,7 @@
                             <li>
 
                                 <p>在电脑右下角的网络图标上单击鼠标右键可以看到"打开网络和共享中心"选项，点击进入设置</p>
-                                <div class="setting-img"><img src="#" _src="img/settings/win8-setting-0.jpg" alt="打开网络和共享中心"></div>
+                                <div class="setting-img"><img src="#" _src="https://796668.com/img/settings/win8-setting-0.jpg" alt="打开网络和共享中心"></div>
                             </li>
                             <li>
                                 <p>点击左侧的"更改适配器设置"</p>
