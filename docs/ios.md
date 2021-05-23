@@ -4,7 +4,7 @@
 
 * AppleID 分两个体系iCloud 和AppStore，`AppStoreID` 在设置-->Apple ID-->`媒体与购买项目`（iOS 13 显示为`iTunes Store与App Store`）
 
-* 退出您当前的`AppStoreID`（注意，不要退出iCloud）登陆美区`AppStoreID`（通常您购买SS节点的网站会提供，也可自行淘宝购买）
+* 退出您当前的`AppStoreID`（注意：不要退出iCloud），登陆美区`AppStoreID`（通常您购买SS节点的网站会提供，也可自行淘宝购买）
 
 ![appleid](https://www.5nd.xyz/apple/id1.gif ':size=360')
 
