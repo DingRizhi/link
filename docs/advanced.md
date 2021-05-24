@@ -6,17 +6,14 @@
 
 ## PAC用户自定规则
 
-* 如PAC模式可以上`Google Youtube Facebook`,但是不能上`xxx`网站，请添加自定规则（`更省流量`）
+* 如PAC模式可上`Google Youtube Facebook`等常用网站,但是不能上`xxx`网站，请添加自定规则
 
-* 比如打不开`xxx.com`网站，应该在自定规则里添加两行 `||xxx.com` 和 `||www.xxx.com`然后点`确定`
+* 比如打不开`xxx.com`网站，应该在自定规则里添加两行 `||xxx.com` 和 `||www.xxx.com`然后`确定`
 
 ![mac](media/mac/rule.gif ':size=480')
 
-!> 节点端建议采用 SQLite
+!> Windows 用户同样适用，只需要打开win文件夹，编辑`user-rule.txt`，添加同样的规则即可！
 
-!> 当使用5.7或更高版本的 MySQL 时，必须关闭`only_full_group_by`这个特性
-
-!> 当使用8.x版本的 MySQL 时，请加上`--default-authentication-plugin=mysql_native_password`参数
 
 ## 使用 mailgun 发送邮件
 
