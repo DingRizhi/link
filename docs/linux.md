@@ -5,19 +5,19 @@
 
 * 点击下载 [Shadowsocks-Qt5](https://www.5nd.xyz/linux/Shadowsocks-Qt5.AppImage) ，右键属性-->权限-->`赋予文件可执行权限！`
 
-![linux1](https://www.5nd.xyz/linux/sq1.gif ':size=720')
+![linux1](media/linux/sq1.gif ':size=720')
 
 * 进入您购买SS节点的网站，复制节点的`二维码链接`（每个节点都唯一对应一个二维码链接，`重复操作`）
 
-![linux2](https://www.5nd.xyz/linux/sq2.gif ':size=720')
+![linux2](media/linux/sq2.gif ':size=720')
 
 * 操作菜单：连接-->添加-->URI，把`二维码链接`导入客户端！设置配置名称，并把本地端口改为`1080`
 
-![linux3](https://www.5nd.xyz/linux/sq3.gif ':size=720')
+![linux3](media/linux/sq3.gif ':size=720')
 
 * `选择节点`后连接，然后再配合Firefox 插件使用。具体请参考 [Firefox 插件](firefox) 教程
 
-![linux4](https://www.5nd.xyz/linux/sq4.gif ':size=720')
+![linux4](media/linux/sq4.gif ':size=720')
 
 !> 常见问题
 
