@@ -1,4 +1,4 @@
-![logo](_media/favicon.png ':size=125x125')
+![logo](media/favicon.png ':size=125x125')
 
 <div style="height: 20px;"></div>
 
