@@ -1,8 +1,8 @@
-!> Android 系统经常杀后台，请务必为App设置后台运行！
+!> 为防止Android 系统杀后台，请设置App后台运行！备用下载：[Shadowsocks](https://www.5nd.xyz/android/ss.apk)
 
 ## Shadowsocks（小飞机）
 
-* 点击下载 [Shadowsocks](https://www.5nd.xyz/android/ss.apk) ，安装后`务必设置`App后台运行
+* 点击下载 <a href="media/android/ss.apk" target="_blank">Shadowsocks</a> ，安装后`务必设置`App后台运行
 
 ![android1](media/android/ss1.gif ':size=320')
 
