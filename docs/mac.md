@@ -1,10 +1,10 @@
-!> 建议更新系统到 macOS 10.12 以上！
+!> 建议更新系统到 macOS 10.12 以上！备用下载：[ShadowsocksX-NG](https://www.5nd.xyz/mac/ShadowsocksX-NG.zip)
 
 ## ShadowsocksX-NG
 
 * 支持 macOS 10.12+ 系统
 
-* 点击下载 [ShadowsocksX-NG](https://www.5nd.xyz/mac/ShadowsocksX-NG.zip) 后`拖拽`到访达的`应用程序`栏，然后从`Launchpad`启动`ShadowsocksX-NG`
+* 点击下载 <a href="media/mac/ShadowsocksX-NG.zip" target="_blank">ShadowsocksX-NG</a> ，后`拖拽`到访达的`应用程序`栏，然后从`Launchpad`启动`ShadowsocksX-NG`
 
 ![ShadowsocksX-NG](media/mac/sx1.gif ':size=720')
 
