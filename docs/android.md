@@ -14,7 +14,7 @@
 
 ![android3](media/android/ss3.gif ':size=320')
 
-* `删掉`无效路线，`选择`添加的`节点`，点击小飞机连接VPN
+* `删掉`无效路线，`选择`添加的节点，点击小飞机连接VPN
 
 ![android4](media/android/ss4.gif ':size=320')
 
