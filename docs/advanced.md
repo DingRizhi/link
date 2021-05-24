@@ -10,7 +10,7 @@
 
 ![mac](media/mac/rule1.gif ':size=480')
 
-![mac](media/mac/rule1.gif ':size=480')
+![mac](media/mac/rule2.gif ':size=480')
 
 !> 节点端建议采用 SQLite
 
