@@ -1,41 +1,8 @@
-# 高级
+## iPhone 修改DNS
 
-## 配合 nginx 使用
-
-若80端口还有别的网站占用，或者需要采用 https 的方式访问，需要先配置`nginx`
-
-把配置文件的 webgui 部分更改为：
-
-```yaml
-webgui:
-  use: true
-  host: '127.0.0.1'
-  port: '8080'
-  site: 'http://yourwebsite.com'
-```
-
-添加 nginx 的配置文件：
-
-```
-server {
-  listen         80;
-  server_name    yourwebsite.com;
-  rewrite        ^   https://$server_name$request_uri? permanent;
-}
-server {  
-  listen                 443 ssl http2;
-  server_name            yourwebsite.com;
-  ssl                    on;
-  ssl_certificate        /xxx/chained.pem;
-  ssl_certificate_key    /xxx/domain.key;
-  location / {
-      proxy_set_header   X-Real-IP        $remote_addr;
-      proxy_set_header   Host             $http_host;
-      proxy_set_header   X-Frame-Options  DENY;
-      proxy_pass         http://127.0.0.1:8080;
-  }
-}
-```
+* 打开Potatso Lite 的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
+* 
+![dns](media/apple/dns.gif ':size=320')
 
 ## 使用 MySQL
 
