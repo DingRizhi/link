@@ -5,15 +5,15 @@
 
 * 点击安装 [SwitchyOmega 插件](https://addons.mozilla.org/zh-CN/firefox/addon/switchyomega/)。打开浏览器设置-->扩展和主题-->Proxy SwitchyOmega-->首选项
 
-![linux1](https://www.5nd.xyz/firefox/1.gif ':size=720')
+![linux1](media/firefox/1.gif ':size=720')
 
 * ① 选择“proxy”情景模式 --> ② 设置代理服务器：`SOCKS5` `127.0.0.1` `1080` --> ③ 应用选项
 
-![linux2](https://www.5nd.xyz/firefox/2.gif ':size=720')
+![linux2](media/firefox/2.gif ':size=720')
 
 * 需要用代理时，请选`"proxy"`模式，日常请使用`"系统代理"`模式。更多设置和Chrome教程请[参考文档](https://github.com/FelisCatus/SwitchyOmega/wiki)
 
-![linux3](https://www.5nd.xyz/firefox/3.gif ':size=720')
+![linux3](media/firefox/3.gif ':size=720')
 
 !> 常见问题
 
