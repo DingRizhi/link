@@ -1,12 +1,12 @@
 ## iPhone 修改DNS
 
-* 打开Potatso Lite 的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
+* 打开`Potatso Lite`的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
 
 ![apple](media/apple/dns.gif ':size=480')
 
 ## PAC用户自定规则（MacOS）
 
-* 如果用PAC模式可以上`Google``Youtube``Facebook`,但是不能上`xxx`网站，请添加自定规则（`更省流量`）
+* 如果用PAC模式可以上`Google Youtube Facebook`,但是不能上`xxx`网站，请添加自定规则（`更省流量`）
 
 * 比如打不开`xxx.com`网站，应该在自定规则里添加两行 `||xxx.com` 和 `||www.xxx.com`然后点`确定`
 
