@@ -2,13 +2,15 @@
 
 * 打开Potatso Lite 的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
 
-![apple](media/apple/dns.gif ':size=320')
+![apple](media/apple/dns.gif ':size=480')
 
 ## PAC用户自定规则（MacOS）
 
-![mac](media/mac/rule1.gif ':size=320')
+如果用PAC模式可以上`Google``Youtube``Facebook`,但是不能上`xxx`网站，请添加自定规则（`更省流量`）
 
-![mac](media/mac/rule1.gif ':size=320')
+![mac](media/mac/rule1.gif ':size=480')
+
+![mac](media/mac/rule1.gif ':size=480')
 
 !> 节点端建议采用 SQLite
 
