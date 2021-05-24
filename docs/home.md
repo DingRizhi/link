@@ -18,7 +18,7 @@ Shadowsocks 是一套网络技术和相关工具的总称，简称`SS`
 
 ## 如何测试 {docsify-ignore}
 
-客户端连接后，如果能打开 [Youtube](https://www.youtube.com) 或 [Google](https://www.google.com) 说明成功了！
+客户端连接后，能打开 [youtube.com](https://www.youtube.com) 或 [google.com](https://www.google.com) 说明成功了！
 
 !> 代理类软件都是相互冲突的，请不要安装多个VPN软件。
 
