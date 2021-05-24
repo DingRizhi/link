@@ -17,15 +17,15 @@
 
 * 进入您购买SS节点的网站，准备好`SS节点`信息！
 
-![openwrt1](https://www.5nd.xyz/openwrt/1.gif ':size=600')
+![openwrt1](media/openwrt/1.gif ':size=600')
 
 * 登陆路由器，进入Shadowsocks 插件设置，输入`SS节点`信息!
 
-![openwrt2](https://www.5nd.xyz/openwrt/2.gif ':size=600')
+![openwrt2](media/openwrt/2.gif ':size=600')
 
 * Shadowsocks 设置界面往下拉，会看到几个辅助功能，如下图。
 
-![openwrt3](https://www.5nd.xyz/openwrt/3.gif ':size=600')
+![openwrt3](media/openwrt/3.gif ':size=600')
 
 * Socks5代理：可使局域网内的设备通过Socks5连接路由器，实现科学上网。一般用透明代理即可，不建议开启！
 
