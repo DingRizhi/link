@@ -6,15 +6,15 @@
 
 * 点击下载 [ShadowsocksX-NG](https://www.5nd.xyz/mac/ShadowsocksX-NG.zip) 后`拖拽`到访达的`应用程序`栏，然后从`Launchpad`启动`ShadowsocksX-NG`
 
-![ShadowsocksX-NG](https://www.5nd.xyz/mac/sx1.gif ':size=720')
+![ShadowsocksX-NG](media/mac/sx1.gif ':size=720')
 
 * 进入您购买SS节点的网站，复制节点的`二维码链接`-->`导入服务器URL`（`重复操作`添加其他节点到客户端）
 
-![ShadowsocksX-NG](https://www.5nd.xyz/mac/sx2.gif ':size=720')
+![ShadowsocksX-NG](media/mac/sx2.gif ':size=720')
 
 * 根据需求先`选择节点`-->再开启代理-->然后选择`代理模式`-->推荐`PAC自动代理`模式
 
-![ShadowsocksX-NG](https://www.5nd.xyz/mac/sx3.gif ':size=720')
+![ShadowsocksX-NG](media/mac/sx3.gif ':size=720')
 
 !> 常见问题
 
@@ -35,15 +35,15 @@
 
 * 打开AppStore，下载`Outline`然后从`Launchpad`启动`Outline`
 
-![Shadowrocket](https://www.5nd.xyz/mac/ot1.gif ':size=720')
+![Shadowrocket](media/mac/ot1.gif ':size=720')
 
 * 进入您购买SS节点的网站，复制节点的`二维码链接`-->打开`Outline`-->添加服务器（`重复操作`添加其他节点）
 
-![Shadowrocket](https://www.5nd.xyz/mac/ot2.gif ':size=720')
+![Shadowrocket](media/mac/ot2.gif ':size=720')
 
 * 选择节点，点击`连接按钮`，首次使用会出现一个创建VPN的提示-->点击`允许`允许VPN连接
 
-![Shadowrocket](https://www.5nd.xyz/mac/ot3.gif ':size=720')
+![Shadowrocket](media/mac/ot3.gif ':size=720')
 
 !> 常见问题
 
