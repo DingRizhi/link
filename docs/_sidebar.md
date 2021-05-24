@@ -10,5 +10,5 @@
   * [Firefox 插件](/firefox)
 
 * 进阶
-  * [高级配置](/advanced)
+  * [高级配置](/faq)
   * [WireGuard节点](/wireguard)
