@@ -36,6 +36,6 @@ Firefox 能科学上网，其他浏览器不行！
 如何离线安装SwitchyOmega
 ```
 
-点击下载 <a href="media/firefox/switchyomega.xpi" target="_blank">Firefox SwitchyOmega</a>
+Firefox 插件：<a href="media/firefox/switchyomega.xpi" target="_blank">SwitchyOmega</a>
 
-点击下载 <a href="media/firefox/switchyomega.cxr" target="_blank">Chrome SwitchyOmega</a>
+Chrome 插件：<a href="media/firefox/switchyomega.crx" target="_blank">SwitchyOmega</a>
