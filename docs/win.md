@@ -3,7 +3,7 @@
 
 ## Shadowsocks (小飞机)
 
-* 点击下载 [Shadowsocks](media/win/win.zip) ，解压后运行win 文件夹里的小飞机。如提示.NET版本过低，下载 [.NET Framework ](https://download.microsoft.com/download/6/E/4/6E48E8AB-DC00-419E-9704-06DD46E5F81D/NDP472-KB4054530-x86-x64-AllOS-ENU.exe)
+* 点击下载 ![Shadowsocks](media/win/win.zip) ，解压后运行win 文件夹里的小飞机。如提示.NET版本过低，下载 [.NET Framework ](https://download.microsoft.com/download/6/E/4/6E48E8AB-DC00-419E-9704-06DD46E5F81D/NDP472-KB4054530-x86-x64-AllOS-ENU.exe)
 
 ![win1](media/win/ss1.gif ':size=720')
 
@@ -36,7 +36,7 @@
 
 ## SSTap (俗称小盾牌)
 
-* 点击下载 [SSTap](media/win/sstap.zip) 安装后运行客户端（安装过程如遇安全提示，点`"始终信任"`并安装软件）
+* 点击下载 ![SSTap](media/win/sstap.zip) 安装后运行客户端（安装过程如遇安全提示，点`"始终信任"`并安装软件）
 
 ![sstap1](media/win/st1.gif ':size=600')
 
