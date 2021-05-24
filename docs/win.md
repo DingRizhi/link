@@ -3,6 +3,8 @@
 
 ## Shadowsocks (小飞机)
 
+* 点击下载 <a href='media/win/win.zip' target=blank>Shadowsocks</a> ，解压后运行win 文件夹里的小飞机。
+
 * 点击下载 [Shadowsocks](https://stuvn.github.io/link/media/win/win.zip) ，解压后运行win 文件夹里的小飞机。如提示.NET版本过低，下载 [.NET Framework ](https://download.microsoft.com/download/6/E/4/6E48E8AB-DC00-419E-9704-06DD46E5F81D/NDP472-KB4054530-x86-x64-AllOS-ENU.exe)
 
 ![win1](media/win/ss1.gif ':size=720')
