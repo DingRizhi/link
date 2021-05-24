@@ -1,9 +1,9 @@
 
-!> Shadowsocks-Qt5 必须配合Firefox 插件使用！
+!> Shadowsocks-Qt5 必须配合Firefox 插件使用！备用下载：[Shadowsocks-Qt5](https://www.5nd.xyz/linux/Shadowsocks-Qt5.AppImage) 
 
 ## Shadowsocks-Qt5
 
-* 点击下载 [Shadowsocks-Qt5](https://www.5nd.xyz/linux/Shadowsocks-Qt5.AppImage) ，右键属性-->权限-->`赋予文件可执行权限！`
+* 点击下载 <a href="media/linux/Shadowsocks-Qt5.AppImage" target="_blank">Shadowsocks-Qt5</a> ，右键文件属性-->权限-->`赋予文件可执行权限！`
 
 ![linux1](media/linux/sq1.gif ':size=720')
 
