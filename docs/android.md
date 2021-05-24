@@ -10,11 +10,11 @@
 
 ![android2](media/android/ss2.gif ':size=320')
 
-* 依次点击节点右边的✏图标-->设置每个路线的`路由模式`
+* 依次点击`节点`右边的✏图标-->设置每个节点的`路由模式`
 
 ![android3](media/android/ss3.gif ':size=320')
 
-* `删掉`无效路线，`选择`添加的节点，点击小飞机连接 VPN
+* `删掉`无效路线，`选择`添加的`节点`，点击小飞机连接VPN
 
 ![android4](media/android/ss4.gif ':size=320')
 
