@@ -1,10 +1,4 @@
-## iPhone/iPad改DNS
-
-* 打开`Potatso Lite`的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
-
-![apple](media/apple/dns.gif ':size=480')
-
-## PAC用户自定规则
+## PAC 用户自定规则
 
 * 如PAC模式可上`Google Youtube Facebook`等常用网站，但是不能上`xxx`网站，请添加自定规则
 
@@ -14,6 +8,11 @@
 
 !> Windows 用户同样适用，只需要打开win文件夹，编辑`user-rule.txt`，添加同样的规则即可！
 
+## iPhone/iPad 修改DNS
+
+* 打开`Potatso Lite`的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
+
+![apple](media/apple/dns.gif ':size=480')
 
 ## 使用 mailgun 发送邮件
 
