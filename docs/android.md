@@ -2,7 +2,7 @@
 
 ## Shadowsocks（小飞机）
 
-* 点击下载 <a href="media/android/ss.apk" target="_blank">Shadowsocks</a> ，安装后请`务必设置`App后台运行
+* 点击下载 <a href="media/android/ss.apk" target="_blank">Shadowsocks</a> ，安装后请`务必`为App设置后台运行
 
 ![android1](media/android/ss1.gif ':size=320')
 
@@ -10,11 +10,11 @@
 
 ![android2](media/android/ss2.gif ':size=320')
 
-* 依次点击`节点`右边的✏图标-->设置节点的`路由模式`（`重复操作`）
+* 点击`节点`右边的✏图标-->设置节点的`路由模式`（`重复操作`）
 
 ![android3](media/android/ss3.gif ':size=320')
 
-* 左滑`删掉`无效的路线，`选择`添加的节点，点击小飞机连接VPN
+* 左滑`删掉`无效路线，`选择`添加的节点，点击小飞机连接VPN
 
 ![android4](media/android/ss4.gif ':size=320')
 
