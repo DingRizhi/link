@@ -1,4 +1,4 @@
-## iPhone 修改DNS
+## iPhone/iPad改DNS
 
 * 打开`Potatso Lite`的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
 
