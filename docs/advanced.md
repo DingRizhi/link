@@ -1,7 +1,7 @@
 ## iPhone 修改DNS
 
 * 打开Potatso Lite 的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
-* 
+
 ![dns](media/apple/dns.gif ':size=320')
 
 ## 使用 MySQL
