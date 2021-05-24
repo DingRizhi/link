@@ -3,7 +3,7 @@
 
 ## Shadowsocks-Qt5
 
-* 点击下载 <a href="media/linux/Shadowsocks-Qt5.AppImage" target="_blank">Shadowsocks-Qt5</a> ，右键文件属性-->权限-->`赋予文件可执行权限！`
+* 点击下载 <a href="media/linux/Shadowsocks-Qt5.AppImage" target="_blank">Shadowsocks-Qt5</a> ，右键文件-->属性-->权限-->`赋予文件可执行权限！`
 
 ![linux1](media/linux/sq1.gif ':size=720')
 
