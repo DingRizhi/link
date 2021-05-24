@@ -4,15 +4,13 @@
 
 ![apple](media/apple/dns.gif ':size=480')
 
-## PAC用户自定规则（MacOS）
+## PAC用户自定规则
 
 * 如PAC模式可以上`Google Youtube Facebook`,但是不能上`xxx`网站，请添加自定规则（`更省流量`）
 
 * 比如打不开`xxx.com`网站，应该在自定规则里添加两行 `||xxx.com` 和 `||www.xxx.com`然后点`确定`
 
-![mac](media/mac/rule1.gif ':size=480')
-
-![mac](media/mac/rule2.gif ':size=480')
+![mac](media/mac/rule.gif ':size=480')
 
 !> 节点端建议采用 SQLite
 
