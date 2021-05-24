@@ -32,3 +32,10 @@ Firefox 能科学上网，其他浏览器不行！
 ```
 本教程实现的是Firefox全局代理，其他浏览器默认使用"系统代理"
 
+  ```shell
+如何离线安装SwitchyOmega
+```
+
+点击下载 <a href="media/firefox/switchyomega.xpi" target="_blank">Firefox SwitchyOmega</a>
+
+点击下载 <a href="media/firefox/switchyomega.cxr" target="_blank">Chrome SwitchyOmega</a>
