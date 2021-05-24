@@ -2,20 +2,13 @@
 
 * 打开Potatso Lite 的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
 
-![dns](media/apple/dns.gif ':size=320')
+![apple](media/apple/dns.gif ':size=320')
 
-## 使用 MySQL
+## PAC用户自定规则（MacOS）
 
-如果想要用 MySQL 替代 SQLite，把配置文件的`db`部分改为：
+![mac](media/mac/rule1.gif ':size=320')
 
-```yaml
-db:
-  host: '127.0.0.1'
-  port: 3306
-  user: 'abc'
-  password: 'xxxxx'
-  database: 'ooooo'
-```
+![mac](media/mac/rule1.gif ':size=320')
 
 !> 节点端建议采用 SQLite
 
