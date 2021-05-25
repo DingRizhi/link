@@ -19,6 +19,8 @@
 
 * 刷入新的固件后登陆路由器后台管理-->开启SSH。对路由器技术感兴趣的朋友，给您推荐一个交流的平台 [恩山无线论坛](https://www.right.com.cn/forum/forum-72-1.html)
 
+* 通过SSH登陆路由器，并安装Shadowsocks 插件。Windows 使用[Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)登陆SSH， [参考教程](https://blog.x-wrt.com/docs/opkg/)
+
 ![openwrt1](media/openwrt/ssh.gif ':size=600')
 
 ## Shadowsocks 插件设置
