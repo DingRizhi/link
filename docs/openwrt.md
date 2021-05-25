@@ -67,7 +67,7 @@ opkg --no-check-certificate install shadowsocks-libev-ss-tunnel
 
 !> 常见问题
 
-```shell
+```yaml
 不知到某个选项怎么设置！
 ```
 教程里没提到的选项，保持默认值就可以了！
