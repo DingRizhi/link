@@ -21,20 +21,25 @@
 
 ![openwrt1](media/openwrt/ssh.gif ':size=600')
 
-* 通过SSH登陆路由器，并安装Shadowsocks 插件。Windows 登陆工具 [Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)，Mac/Linux 自带SSH命令。[参考教程](https://blog.x-wrt.com/docs/opkg/)
+* 通过SSH登陆路由器，安装Shadowsocks 插件。Windows 登陆工具 [Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)，Mac/Linux 自带SSH命令。[参考教程](https://blog.x-wrt.com/docs/opkg/)
 
 * 安装软件命令例子
 
-```#我们使用https下载软件源
+```
+#我们使用https下载软件源
+
 sed -i 's/http:/https:/g' /etc/opkg/distfeeds.conf
 
 #更新官方源信息
+
 opkg --no-check-certificate update
 
 #列出软件包
+
 opkg list
 
 #安装
+
 opkg --no-check-certificate install luci-app-shadowsocks-libev
 opkg --no-check-certificate install shadowsocks-libev-config
 opkg --no-check-certificate install shadowsocks-libev-ss-local
