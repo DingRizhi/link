@@ -25,7 +25,7 @@
 
 * 安装软件命令例子
  
-```console
+    ```shell
 #我们使用https下载软件源
 
 sed -i 's/http:/https:/g' /etc/opkg/distfeeds.conf
@@ -38,7 +38,7 @@ opkg --no-check-certificate update
 
 opkg list
 
-#安装rrr
+#安装
 
 opkg --no-check-certificate install luci-app-shadowsocks-libev
 opkg --no-check-certificate install shadowsocks-libev-config
