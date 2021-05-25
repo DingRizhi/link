@@ -21,7 +21,7 @@
 
 ![openwrt1](media/openwrt/ssh.gif ':size=600')
 
-* 通过SSH登陆路由器，并安装Shadowsocks 插件。Windows 使用[Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)登陆SSH，Mac/Linux 自带SSH命令。[参考教程](https://blog.x-wrt.com/docs/opkg/)
+* 通过SSH登陆路由器，并安装Shadowsocks 插件。Windows 登陆工具 [Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)，Mac/Linux 自带SSH命令。[参考教程](https://blog.x-wrt.com/docs/opkg/)
 
 * 安装软件命令例子
  
@@ -67,7 +67,7 @@ opkg --no-check-certificate install shadowsocks-libev-ss-tunnel
 
 !> 常见问题
 
-```yaml
+```shell
 不知到某个选项怎么设置！
 ```
 教程里没提到的选项，保持默认值就可以了！
