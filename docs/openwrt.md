@@ -38,7 +38,7 @@ opkg --no-check-certificate update
 
 opkg list
 
-#安装
+#安装rrr
 
 opkg --no-check-certificate install luci-app-shadowsocks-libev
 opkg --no-check-certificate install shadowsocks-libev-config
