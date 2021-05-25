@@ -17,7 +17,7 @@
 
 * 如果路由器已经装有Shadowsocks 插件，请忽略本步骤！如果没有，请从上面的地址下载固件，并刷入路由器 [参考教程](https://blog.x-wrt.com/docs/tutorial/)
 
-* 刷入新的固件后登陆路由器后台管理-->开启SSH。对路由器技术感兴趣的朋友，给您推荐一个交流的平台 [恩山无线论坛](https://www.right.com.cn/forum/forum-72-1.html)
+* 刷入新固件，登陆路由器后台-->开启SSH。路由器品牌众多，刷机和设置也各不相同！这里推荐一个交流平台 [恩山无线论坛](https://www.right.com.cn/forum/forum-72-1.html)
 
 ![openwrt1](media/openwrt/ssh.gif ':size=600')
 
@@ -25,29 +25,7 @@
 
 * 安装软件命令例子
  
-```shell
-#我们使用https下载软件源
-
-sed -i 's/http:/https:/g' /etc/opkg/distfeeds.conf
-
-#更新官方源信息
-
-opkg --no-check-certificate update
-
-#列出软件包
-
-opkg list
-
-#安装
-
-opkg --no-check-certificate install luci-app-shadowsocks-libev
-opkg --no-check-certificate install shadowsocks-libev-config
-opkg --no-check-certificate install shadowsocks-libev-ss-local
-opkg --no-check-certificate install shadowsocks-libev-ss-redir
-opkg --no-check-certificate install shadowsocks-libev-ss-rules
-opkg --no-check-certificate install shadowsocks-libev-ss-server
-opkg --no-check-certificate install shadowsocks-libev-ss-tunnel
-    ```       
+     
  
 ## Shadowsocks 插件设置
 
