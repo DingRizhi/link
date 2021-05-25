@@ -13,7 +13,11 @@
 
 具体的支持型号，请查询 https://downloads.x-wrt.com/rom/
 
-## Shadowsocks插件
+## Shadowsocks 插件安装
+
+* 如果您的路由器已经装有Shadowsocks 插件，请忽略本步骤！如果没有，请从上面的地址下载固件，并刷入路由器。[参考教程]（https://blog.x-wrt.com/docs/tutorial/）
+
+## Shadowsocks 插件设置
 
 * 进入您购买SS节点的网站，准备好`SS节点`信息！
 
