@@ -15,7 +15,7 @@
 
 ## Shadowsocks 插件安装
 
-* 如果您的路由器已经装有Shadowsocks 插件，请忽略本步骤！如果没有，请从上面的地址下载固件，并刷入路由器。[参考教程]（https://blog.x-wrt.com/docs/tutorial/）
+* 如果您的路由器已经装有Shadowsocks 插件，请忽略本步骤！如果没有，请从上面的地址下载固件，并刷入路由器。[参考教程](https://blog.x-wrt.com/docs/tutorial/)
 
 ## Shadowsocks 插件设置
 
