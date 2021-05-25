@@ -25,7 +25,7 @@
 
 * 安装软件命令例子
  
- ```shell
+```shell
 #我们使用https下载软件源
 sed -i 's/http:/https:/g' /etc/opkg/distfeeds.conf
 
@@ -67,7 +67,7 @@ opkg --no-check-certificate install shadowsocks-libev-ss-tunnel
 
 !> 常见问题
 
-```yaml
+    ```yaml
 不知到某个选项怎么设置！
 ```
 教程里没提到的选项，保持默认值就可以了！
