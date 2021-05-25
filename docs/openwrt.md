@@ -39,7 +39,7 @@ opkg --no-check-certificate install shadowsocks-libev-ss-rules
 opkg --no-check-certificate install shadowsocks-libev-ss-server
 opkg --no-check-certificate install shadowsocks-libev-ss-tunnel
 ```
-* 以上是通过SSH命令安装插件的一个例子，不同品牌的路由器安装插件的形式可能不尽相同，这里仅供参考！
+* 以上是通过SSH命令安装插件的一个例子，不同品牌的路由器安装插件的方法和形式不尽相同，在此仅供参考！
 
 ## Shadowsocks 插件设置
 
