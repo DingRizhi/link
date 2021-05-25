@@ -24,6 +24,7 @@
 * 通过SSH登陆路由器，并安装Shadowsocks 插件。Windows 登陆工具 [Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)，Mac/Linux 自带SSH命令。[参考教程](https://blog.x-wrt.com/docs/opkg/)
 
 * 安装软件命令例子
+
 ```#我们使用https下载软件源
 sed -i 's/http:/https:/g' /etc/opkg/distfeeds.conf
 
@@ -40,8 +41,10 @@ opkg --no-check-certificate install shadowsocks-libev-ss-local
 opkg --no-check-certificate install shadowsocks-libev-ss-redir
 opkg --no-check-certificate install shadowsocks-libev-ss-rules
 opkg --no-check-certificate install shadowsocks-libev-ss-server
-opkg --no-check-certificate install shadowsocks-libev-ss-tunnel```
- 
+opkg --no-check-certificate install shadowsocks-libev-ss-tunnel
+```
+* 有的路由器可以在后台直接上传插件
+
 ## Shadowsocks 插件设置
 
 * 进入您购买SS节点的网站，准备好`SS节点`信息！
