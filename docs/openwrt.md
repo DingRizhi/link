@@ -23,11 +23,6 @@
 
 * 通过SSH登陆路由器，并安装Shadowsocks 插件。Windows 使用[Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)登陆SSH，Mac/Linux 自带SSH命令。[参考教程](https://blog.x-wrt.com/docs/opkg/)
 
-  ```shell
-不知到某个选项怎么设置！
-```
-!> 不见相同
- 
 ## Shadowsocks 插件设置
 
 * 进入您购买SS节点的网站，准备好`SS节点`信息！
