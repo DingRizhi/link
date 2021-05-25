@@ -25,7 +25,7 @@
 
 * 安装软件命令例子
  
-```shell
+ ```shell
 #我们使用https下载软件源
 sed -i 's/http:/https:/g' /etc/opkg/distfeeds.conf
 
