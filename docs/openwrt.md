@@ -28,7 +28,7 @@
 ```console
 #我们使用https下载软件源
 
-sed -i 's/http:/https:/g' /etc/opkg/distfeeds.conf
+
 
 #更新官方源信息
 
