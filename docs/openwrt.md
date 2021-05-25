@@ -15,7 +15,7 @@
 
 ## Shadowsocks 插件安装
 
-* 如果您的路由器已经装有Shadowsocks 插件，请忽略本步骤！如果没有，请从上面的地址下载固件，并刷入路由器。[参考教程](https://blog.x-wrt.com/docs/tutorial/)
+* 如果路由器已经装有Shadowsocks 插件，请忽略本步骤！如果没有，请从上面的地址下载固件，并刷入路由器 [参考教程](https://blog.x-wrt.com/docs/tutorial/)
 
 * 刷入新的固件后登陆路由器后台管理-->开启SSH。对路由器技术感兴趣的朋友，给您推荐一个交流的平台 [恩山无线论坛](https://www.right.com.cn/forum/forum-72-1.html)
 
