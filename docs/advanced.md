@@ -8,7 +8,7 @@
 
 !> Windows 用户同样适用，只需要打开win文件夹，编辑`user-rule.txt`，添加同样的规则即可！
 
-## iPhone/iPad 修改DNS
+## iPhone/iPad 修改 DNS
 
 * 打开`Potatso Lite`的设置界面-->点击`自定义DNS`-->添加DNS`8.8.8.8`
 
