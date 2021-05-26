@@ -15,6 +15,8 @@
 
 ## Windows 系统
 
+* 点击下载 [tcping.exe](https://download.elifulkerson.com//files/tcping/0.39/tcping.exe) 复制到`C:\Windows\System32`目录下，打开`CMD`
+
 ![test](media/win/test.gif ':size=480')
 
 ## Linux/MacOS 
