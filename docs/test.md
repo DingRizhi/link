@@ -15,7 +15,7 @@
 
 ## Windows 系统
 
-* 点击下载 [tcping.exe](https://download.elifulkerson.com//files/tcping/0.39/tcping.exe) 复制到`C:\Windows\System32`目录下，打开`CMD`
+* 点击下载 [tcping.exe](https://download.elifulkerson.com//files/tcping/0.39/tcping.exe) 复制到`C:\Windows\System32`目录下，打开`命令提示符`输入`tcping 服务器 端口号`
 
 ![test](media/win/test.gif ':size=480')
 
