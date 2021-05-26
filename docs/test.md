@@ -1,5 +1,5 @@
 
-!> 直接测试节点的连通性，可快速排除服务器问题！
+!> 连通性测试成功，说明本节点的服务器没问题。应从自身系统设置查找问题！
 
 ## iPhone/iPad
 
@@ -11,49 +11,18 @@
 
 假设网卡名为`ens3`
 
-```
-sudo iptables -t filter -A FORWARD -i wg0 -j ACCEPT
-sudo iptables -t filter -A FORWARD -o wg0 -m state --state RELATED,ESTABLISHED -j ACCEPT
-sudo iptables -A FORWARD -i wg0 -o ens3 -j ACCEPT
-sudo iptables -A FORWARD -i ens3 -o wg0 -m state --state ESTABLISHED,RELATED -j ACCEPT
-sudo iptables -t nat -A POSTROUTING -o ens3 -j MASQUERADE
-```
+![test](media/android/test.gif ':size=480')
 
 ## Windows 
 
-```
-echo 1 >/proc/sys/net/ipv4/ip_forward
-```
+![test](media/win/test.gif ':size=480')
 
 ## Linux
-```shell
-wg genkey > privatekey
-wg pubkey < privatekey > publickey
-```
-其中 private key 写在配置文件里，public key 在 web 端增加服务器时填写
+
+![test](media/linux/test.gif ':size=480')
 
 ## MacOS 
 
-```
-[Interface]
-Address = 10.100.0.1/16 
-PrivateKey = 8REGzY7PA3p81VN9KQ4mKM7d8oFZBu2wD7Pbs8ppPkW= 
-ListenPort = 50000
-```
+!> 排除服务器问题后，应该从系统代理设置查找问题，比如系统代理可能被一些软件或插件锁死
 
-## 启动 WireGuard
-
-```shell
-sudo wg-quick up ./wg0.conf
-```
-
-## 启动 s 端
-
-使用[shadowsocks-manager-wireguard](https://github.com/gyteng/shadowsocks-manager-wireguard)作为 s 端即可
-```
-node index --gateway 10.100.0.1 \
-           --manager 0.0.0.0:6789 \
-           --password 123456 \
-           --interface wg0 \
-           --db /your/data.json
-```
+!> 比如360、电脑管家、毒霸等国产安全类软件，一些浏览器的插件也会锁住浏览器的代理接口
