@@ -22,7 +22,7 @@
 ## Linux/MacOS 
 
 * 打开终端，输入`ssh -v -p 端口 root@服务器地址`结果出现`Connection established` 说明成功！
- 
+
 ![test](media/linux/test.gif ':size=640')
 
 !> 排除服务器问题后，应从系统代理设置查找问题，系统代理设置可能某些软件或插件锁死
