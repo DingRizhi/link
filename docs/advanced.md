@@ -15,9 +15,9 @@
 ![apple](media/apple/dns.gif ':size=480')
 
 
-## QQ/微信等软件代理
+## QQ、微信等软件代理
 
-* 打开QQ/微信的登陆设置界面，设置`SOCK5代理`地址`127.0.0.1`端口`1080`
+* 打开QQ、微信的登陆设置界面，设置`SOCK5代理`地址`127.0.0.1`端口`1080`
 
 ![windows](media/win/sock5.gif ':size=480')
 
