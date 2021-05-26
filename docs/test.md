@@ -21,7 +21,7 @@
 
 ## Linux/MacOS 
 
-* 打开终端，输入`ssh -v -p 端口 root@服务器地址`结果出现`Connection established` 说明成功！
+* 打开终端，输入`ssh -v -p 端口 root@服务器地址`结果出现`Connection established`说明成功！
 
 ![test](media/linux/test.gif ':size=640')
 
