@@ -21,7 +21,7 @@
 
 ## Linux/MacOS 
 
-* 打开终端，输入
+* 打开终端，输入`ssh -v -p 端口号 root@服务器地址`。执行后出现`Connection established` 说明连接成功！
  
 ![test](media/linux/test.gif ':size=640')
 
