@@ -1,14 +1,11 @@
-# WireGuard 节点
 
-虽然项目名称为`shadowsocks-manager`，同样支持 WireGuard 做节点
+!> 直接测试节点的连通性，可快速排除服务器问题！
 
-## 安装 WireGuard
+## iPhone/iPad
 
-```shell
-sudo add-apt-repository ppa:wireguard/wireguard
-sudo apt update
-sudo apt install wireguard -y
-```
+* 下载小火箭后添加节点，
+
+![test](media/apple/test.gif ':size=720')
 
 !> Web 端也需要安装
 
