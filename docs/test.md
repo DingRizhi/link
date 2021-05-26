@@ -15,13 +15,13 @@
 
 ## Windows 系统
 
-* 点击下载 [tcping.exe](https://download.elifulkerson.com//files/tcping/0.39/tcping.exe) 复制到`C:\Windows\System32`打开`命令提示符`输入`tcping 服务器地址 端口号`
+* 点击下载 [tcping.exe](https://download.elifulkerson.com//files/tcping/0.39/tcping.exe) 复制到`C:\Windows\System32`打开`命令提示符`输入`tcping 服务器地址 端口`
 
 ![test](media/win/test.gif ':size=640')
 
 ## Linux/MacOS 
 
-* 打开终端，输入`ssh -v -p 端口号 root@服务器地址`。执行后出现`Connection established` 说明连接成功！
+* 打开终端，输入`ssh -v -p 端口 root@服务器地址`出现`Connection established` 说明成功！
  
 ![test](media/linux/test.gif ':size=640')
 
