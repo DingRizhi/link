@@ -7,21 +7,19 @@
 
 ![test](media/apple/test.gif ':size=480')
 
-## Android
+## Android 系统
 
 假设网卡名为`ens3`
 
 ![test](media/android/test.gif ':size=480')
 
-## Windows 
+## Windows 系统
 
 ![test](media/win/test.gif ':size=480')
 
-## Linux
+## Linux/MacOS 
 
 ![test](media/linux/test.gif ':size=480')
-
-## MacOS 
 
 !> 排除服务器问题后，应该从系统代理设置查找问题，比如系统代理可能被一些软件或插件锁死
 
