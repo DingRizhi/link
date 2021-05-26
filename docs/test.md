@@ -7,7 +7,7 @@
 
 ![test](media/apple/test.gif ':size=480')
 
-## 配置路由表
+## Android
 
 假设网卡名为`ens3`
 
@@ -19,21 +19,20 @@ sudo iptables -A FORWARD -i ens3 -o wg0 -m state --state ESTABLISHED,RELATED -j 
 sudo iptables -t nat -A POSTROUTING -o ens3 -j MASQUERADE
 ```
 
-## 开启转发功能
+## Windows 
 
 ```
 echo 1 >/proc/sys/net/ipv4/ip_forward
 ```
 
-## 生成密钥
-
+## Linux
 ```shell
 wg genkey > privatekey
 wg pubkey < privatekey > publickey
 ```
 其中 private key 写在配置文件里，public key 在 web 端增加服务器时填写
 
-## 增加配置文件
+## MacOS 
 
 ```
 [Interface]
