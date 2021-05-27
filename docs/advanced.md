@@ -1,4 +1,4 @@
-!> 更多关于PAC用户自定规则请 [参考教程](https://www.jianshu.com/p/c68b6fb7ccd7)
+!> 更多关于用户自定规则请 [参考教程](https://www.jianshu.com/p/c68b6fb7ccd7)
 
 ## PAC 用户自定规则
 
