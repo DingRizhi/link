@@ -1,3 +1,5 @@
+!> 用户自定规则[参考教程](https://www.jianshu.com/p/c68b6fb7ccd7)
+
 ## PAC 用户自定规则
 
 * 如PAC模式可上`Google Youtube Facebook`等常用网站，但不能上`xxx`网站，请添加自定规则
