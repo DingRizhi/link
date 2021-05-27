@@ -1,12 +1,12 @@
 ## PAC 用户自定规则
 
-* 如PAC模式可上`Google Youtube Facebook`等常用网站，但是不能上`xxx`网站，请添加自定规则
+* 如PAC模式可上`Google Youtube Facebook`等常用网站，但不能上`xxx`网站，请添加自定规则
 
-* 例如打不开`xxx.com`网站，应在自定规则里添加两行 `||xxx.com` 和 `||www.xxx.com`然后`确定`
+* 例如打不开`xxx.com`网站，应在自定规则里添加两行`||xxx.com`和`||www.xxx.com`然后`确定`
 
 ![mac](media/mac/rule.gif ':size=480')
 
-!> Windows 用户同样适用，只需要打开win文件夹，编辑`user-rule.txt`，添加同样的规则即可！
+!> Windows 同样适用，打开win文件夹，编辑`user-rule.txt`，添加同样的规则即可！[参考规则](https://fuyiyi.imdo.co/articles/2018/09/30/1538314978887.html)
 
 ## iPhone/iPad 修改 DNS
 
